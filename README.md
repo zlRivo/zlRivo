@@ -5,6 +5,7 @@
     * Binary exploitation
 
   * Low level programming
+  * Gamedev (though not fully committed)
     
 - 🌱 I’m currently not learning anything ...
 - 💞️ I like rust a lot ...
